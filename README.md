@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Jorge 👋
 
 <!--
 **TheGeorgeZ/TheGeorgeZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegeorgez)](https://github.com/thegeorgez/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegeorgez&hide=contribs,prs)
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=thegeorgez&show_icons=true&theme=gotham&hide=contribs,prs" alt="thegeorgez" />
