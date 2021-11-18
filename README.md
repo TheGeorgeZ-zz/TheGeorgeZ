@@ -53,5 +53,3 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
-
-# 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
